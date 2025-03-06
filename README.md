@@ -10,3 +10,7 @@ Currently, the dataset is extremely small and the highest accuracy is around 60%
 The plan is to get the model to a reasonable percentage then use semi supervised techniques to improve it more i.e. predict on unlabelled images and use the ones with the highest confidence to train the model again and improve the test accuracy.
 
 I have been running the code on Kaggle as a notebook using T4 GPU x2
+The actual notebook is messy hence i have included the relevant code in this repo.
+The kaggle notebook can be found here:
+
+-   https://www.kaggle.com/code/roryhunter/semi-supervised-learning-xray
